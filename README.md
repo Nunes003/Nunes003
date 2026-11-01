@@ -18,7 +18,7 @@ Gosto de construir aplicações web e de resolver problemas com código. Aqui fi
 | [shoes-app](https://github.com/Nunes003/shoes-app) | Website de uma loja de sapatilhas | React, Vite, Tailwind CSS |
 | [TP4-IPM](https://github.com/Nunes003/TP4-IPM) | Trabalho prático de Interação Pessoa-Máquina (protótipo web) | HTML |
 | [TP_POO](https://github.com/Nunes003/TP_POO) | Trabalho prático de Programação Orientada a Objetos | C++ |
-| SmartBarraco (repositório privado) | Assistente doméstico inteligente (home assistant) | - |
+| SmartBarraco (repositório privado) | Assistente doméstico inteligente (home assistant) | Python |
 
 ## Contacto
 

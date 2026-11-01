@@ -1,14 +1,14 @@
-# Olá, sou o João Nunes
+# Olá, sou o João Nunes 👋
 
-Gosto de construir aplicações web e de resolver problemas com código. Aqui ficam alguns dos meus projetos públicos.
+Gosto de construir aplicações web e de resolver problemas com código. Aqui ficam alguns dos meus projetos.
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - **Front-end:** JavaScript, React, Vite, Tailwind CSS, Bootstrap, HTML
 - **Back-end / dados:** Node.js, PHP, MySQL
 - **Outras linguagens:** C++ (CMake)
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -18,6 +18,7 @@ Gosto de construir aplicações web e de resolver problemas com código. Aqui fi
 | [shoes-app](https://github.com/Nunes003/shoes-app) | Website de uma loja de sapatilhas | React, Vite, Tailwind CSS |
 | [TP4-IPM](https://github.com/Nunes003/TP4-IPM) | Trabalho prático de Interação Pessoa-Máquina (protótipo web) | HTML |
 | [TP_POO](https://github.com/Nunes003/TP_POO) | Trabalho prático de Programação Orientada a Objetos | C++ |
+| SmartBarraco (repositório privado) | Assistente doméstico inteligente (home assistant) | - |
 
 ## 📫 Contacto
 

@@ -1,14 +1,14 @@
-# Olá, sou o João Nunes 👋
+# Olá, sou o João Nunes
 
 Gosto de construir aplicações web e de resolver problemas com código. Aqui ficam alguns dos meus projetos públicos.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **Front-end:** JavaScript, React, Vite, Tailwind CSS, Bootstrap, HTML
 - **Back-end / dados:** Node.js, PHP, MySQL
 - **Outras linguagens:** C++ (CMake)
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|

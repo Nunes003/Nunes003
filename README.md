@@ -1,14 +1,14 @@
-# Olá, sou o João Nunes 👋
+# Olá, sou o João Nunes
 
 Gosto de construir aplicações web e de resolver problemas com código. Aqui ficam alguns dos meus projetos.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **Front-end:** JavaScript, React, Vite, Tailwind CSS, Bootstrap, HTML
 - **Back-end / dados:** Node.js, PHP, MySQL
 - **Outras linguagens:** C++ (CMake)
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
@@ -20,6 +20,6 @@ Gosto de construir aplicações web e de resolver problemas com código. Aqui fi
 | [TP_POO](https://github.com/Nunes003/TP_POO) | Trabalho prático de Programação Orientada a Objetos | C++ |
 | SmartBarraco (repositório privado) | Assistente doméstico inteligente (home assistant) | - |
 
-## 📫 Contacto
+## Contacto
 
 Podes contactar-me através do GitHub: [@Nunes003](https://github.com/Nunes003)
